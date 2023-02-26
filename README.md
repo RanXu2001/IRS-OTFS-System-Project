@@ -6,4 +6,4 @@
 ## Channel estimation(The effective channel response)
 ###RISDDchannelest.m
 ## Channel estimation(The RIS-reflected channel and LOS channel)
-###To be added
+###RISDDchannelest_separated.m
